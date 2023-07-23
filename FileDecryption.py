@@ -21,3 +21,16 @@ for char in encrypted_contents:
         decrypted_contents += char
 
 print(decrypted_contents)
+
+
+'''
+Output of this program is matching with the original file info_security.txt
+
+Employee behavior can have a big impact on information security in organizations.
+Cultural concepts can help different segments of the organization work effectively
+or work against effectiveness towards information security within an organization.
+Exploring the Relationship between Organizational Culture and Information Security 
+Culture provides the following definition of information security culture: ISC is 
+the totality of patterns of behavior in an organization that contribute to the 
+protection of information of all kinds.
+'''
