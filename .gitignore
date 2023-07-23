@@ -1,12 +1,16 @@
-write_dictionary.py
+read_dictionary.py
+
+dict.py
 
 datastore.dat
 
-read_dictionary.py
+info_security-1.txt
 
-reyail_space_original.csv
+retail_space_original.csv
 
 retail_space.csv
 
 school_data.json
+
+sometext.txt
 
